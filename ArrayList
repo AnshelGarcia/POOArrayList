@@ -1,0 +1,36 @@
+public class ArrayListt {
+    private ArrayListt Suiguiente;
+    private int[] obj;
+    
+    public ArrayListt(){
+    
+    }
+    public ArrayListt(ArrayListt obj){
+    
+    }
+    public ArrayListt(int obj){
+    
+    }
+    
+    public void add(int onj){
+    
+    }
+    public void add(int obj, int i){
+    
+    }
+    public void addAll(ArrayListt obj){
+    
+    }
+    
+    
+    
+    public boolean contains(int O){
+        boolean a=false;
+        for(int i=0;i<obj.length;i++){
+        if(obj[i]==O)
+        a= true;
+    }
+    return a;
+    }
+    
+}
